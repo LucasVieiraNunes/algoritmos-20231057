@@ -20,7 +20,7 @@ else if(aprovado) {
     if (aprovado) {
         alert(`Parabéns! Você está aprovado`);
     } else {
-        alert(`Infeliz! Você está reprovado`)
+        alert(`Infeliz! Você está reprovado!!`)
     }
 }
 
